@@ -1,5 +1,7 @@
-# tesodev-challenge
-
+# search-engine-challenge
+```
+Search engine made with vue.js,node.js and scss for tesodev's challange.
+```
 ## Project setup
 ```
 npm install
